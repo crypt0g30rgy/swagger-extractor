@@ -1,11 +1,13 @@
 ## About
 
+A tool to extract a swagger file endpoints.
+
 ## Installation && Usage
 
 to use the tool just clone the repo 
 
 ```bash
-git clone 
+git clone https://github.com/crypt0g30rgy/swagger-extractor
 ```
 
 then do the following to get all possible flags;
